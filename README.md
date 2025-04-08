@@ -18,7 +18,7 @@ The dataset consists of MRI brain scan images divided into the following classes
 - `tumor_yes`
 - `tumor_no`
 
-> Augmentation has been applied only to **tumor_yes** and **tumor_no** classes to balance the dataset and avoid overfitting.
+> Augmentation has been applied only to **tumor_no** classes to balance the dataset and avoid overfitting.
 
 ---
 
