@@ -37,14 +37,13 @@ The dataset consists of MRI brain scan images divided into the following classes
 ### ✅ Step 3: Data Augmentation
 - Custom augmentation techniques applied separately using:
   - `ImageDataGenerator` for `tumor_no`
-  - `Albumentations` for `tumor_yes`
 
 ### ✅ Step 4: Model Development
 
 **Implemented Models:**
 - ✅ Baseline CNN
-- ✅ MobileNetV2 (Transfer Learning)
-
+- ✅ VGG16 (Transfer Learning)
+- ✅ EfficientNetB0 (Transfer Learning)
 ---
 
 ## 📊 Evaluation & Visualization
