@@ -44,6 +44,8 @@ The dataset consists of MRI brain scan images divided into the following classes
 - ✅ Baseline CNN
 - ✅ VGG16 (Transfer Learning)
 - ✅ EfficientNetB0 (Transfer Learning)
+- ✅ ResNet50 (Transfer Learning)
+- ✅ DenseNet121 (Transfer Learning)
 ---
 
 ## 📊 Evaluation & Visualization
