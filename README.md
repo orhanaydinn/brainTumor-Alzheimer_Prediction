@@ -87,3 +87,5 @@ Each model’s training duration is logged and compared for performance benchmar
 **Orhan Aydın**  
 MSc Data Science & Artificial Intelligence  
 
+
+![Image](https://github.com/user-attachments/assets/eebabb60-9e96-48a5-a1c7-d2c467c967ff)
