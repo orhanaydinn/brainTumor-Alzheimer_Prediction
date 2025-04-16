@@ -8,6 +8,8 @@ This project aims to build an image classification system that can detect **brai
 
 ![Image](https://github.com/user-attachments/assets/eebabb60-9e96-48a5-a1c7-d2c467c967ff)
 
+![image](https://github.com/user-attachments/assets/6a7bdb31-17d4-4a60-8d5f-414d7b7178e5)
+
 ---
 
 
