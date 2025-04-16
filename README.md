@@ -4,7 +4,7 @@ This project aims to build an image classification system that can detect **brai
 
 ---
 
-# Project Review
+## Project Review
 
 ![Image](https://github.com/user-attachments/assets/eebabb60-9e96-48a5-a1c7-d2c467c967ff)
 
