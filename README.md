@@ -15,6 +15,8 @@ This project aims to build an image classification system that can detect **brai
 
 ## Dataset
 
+You can download the dataset from here: https://drive.google.com/file/d/1UsTHwppnuU4PpSNgS--cijrka4wixykJ/view?usp=sharing
+
 The dataset consists of MRI brain scan images divided into the following classes:
 
 ### Alzheimer Classes:
